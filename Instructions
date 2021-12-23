@@ -1,0 +1,3 @@
+//make sure your gmail less secure option is on
+
+// go to config/sendEmail.go file and set sender and receiver email
